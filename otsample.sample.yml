@@ -1,0 +1,5 @@
+jaegertransport: "localhost:5775"
+redis:
+  address: "localhost:6379"
+  password: ""
+  db: 0
